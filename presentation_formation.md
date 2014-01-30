@@ -19,8 +19,8 @@ author: Sébastien NEDJAR
 
 # Engagement pédagogique
 1. Cette formation ne doit pas être un ensemble de cours magistraux (Formation par le faire).
-2. Les formateurs n'est pas dans un posture dirigiste mais à l'écoute des besoins du groupe (Formation collaborative).
-3. Toute les ressources utilisées et produites seront librement accessible par internet (Formation Ouverte)
+2. Les formateurs ne sont pas dans une posture dirigiste mais à l'écoute des besoins du groupe (Formation collaborative).
+3. Toute les ressources utilisées et produites seront librement accessibles par internet (Formation Ouverte)
 4. Chaque acteur (formateur et/ou bénéficiaire) acceptera le changement pour trouver une meilleure adéquation avec les besoins exprimés (Formation Agile).
 
 
@@ -35,8 +35,7 @@ author: Sébastien NEDJAR
 - Début de séance : 
    * Présentation des items de formation.
    * Priorisation par les participants.
-   * Définition des critères de validation.
-   * Établissement du Backlog de formation avec le minutage.
+   * Définition du minutage.
 - Déroulement de la session :
 - Fin de séance :
 
@@ -60,12 +59,12 @@ author: Sébastien NEDJAR
 - La documentation produite collectivement est avant tout un journal de bord du bon déroulement de cette formation.
 - C'est la principale ressource qui restera à votre disposition après la formation.
 - Elle doit contenir ce que chacun considère comme important pour lui.
-- Elle servira de socle pour les futures essaimages.
+- Elle servira de socle pour les futurs essaimages.
 
 # Importance de la documentation
 - Mieux une documentation imparfaite que pas de documentation.
-- Si l'on ne documente pas en faisant soit on ne documentera jamais 
-soit on fera une documentation qui omettra les petites difficultés.
+- Si l'on ne documente pas en faisant, soit on ne documentera jamais, 
+soit on fera une documentation qui omettra les petits détails qui sont le plus importants.
 - Un dessin fait à la main est souvent plus clair que des longs paragraphes.
 - La documentation est vivante donc elle ne sera jamais parfaite du premier coup.
 
